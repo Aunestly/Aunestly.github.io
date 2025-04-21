@@ -11,8 +11,9 @@ email: aunestymoreland@gmail.com
 The purpose of this repository is to showcase my journey and progression as a Data Analyst.
 
 ## Table of Contents
--[About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
+- [About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
+- [Portfolio Projects] (https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
 
-## Portfolio Projects:
+## Portfolio Projects
 
 
