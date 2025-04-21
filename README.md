@@ -38,3 +38,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 -[Certification]
 -[Contact]
 
+## Education
+## Certification
+## Contact
+
