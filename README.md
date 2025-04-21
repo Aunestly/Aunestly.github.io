@@ -22,8 +22,8 @@ The purpose of this repository is to showcase my journey and progression as a Da
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
 ## Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak
-**Code:** [`palmer-archipelago-penguin-dplyr-tutorial.ipynb`]
-(https://github.com/Aunestly/aun-m_portfolio/blob/main/palmer-archipelago-penguin-dplyr-tutorial.ipynb)
+**Code:** [`Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak.ipynb`]
+(https://github.com/Aunestly/aun-m_portfolio/blob/main/Using%20dplyr%20to%20Analyze%20Archipelago%20Penguin%20Dataset%20by%20Jesse%20Mostipak.ipynb)
 
 **Goal:** Use five dplyr functions to filter and analyze different species of penguins from the archipelago dataset.
 
