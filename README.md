@@ -6,3 +6,4 @@ Hi, My name is Aunesty, I am a data analyst and I am currently pursuing my degre
  Inspired by the elegance and resilience of the lotus flower, I strive to uncover the hidden truths within data sets. Utilizing advanced data analysis techniques, I cultivate insights that drive marketing success. Just as the lotus rises from the mud to bloom beautifully, I aim to transform complex data into clear, actionable strategies.
 
 
+email: aunestymoreland@gmail.com
