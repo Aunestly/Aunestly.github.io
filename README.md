@@ -34,4 +34,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 **Description:** This project is a tutorial that I completed that includes a dataset with 3 species of penguins; Chinstrap, Adélie, or Gentoo from the islands of Dream, Torgersen, or Biscoe in the Palmer Archipelago, (Antarctica). To discover the average body mass by species AND island I utilized the Tidyverse package dplyr and five functions into ggplot2 package for visualization. In this tutorial by Jesse Mostipak that I completed I was able to set up the coding environment, load the necessary packages, explore the data, and model it. 
 
 **Skills:** data modeling, data exploration, data parsing, data visualization, data importing
+-[Education]
+-[Certification]
+-[Contact]
 
