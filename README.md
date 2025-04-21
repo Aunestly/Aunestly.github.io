@@ -23,6 +23,9 @@ The purpose of this repository is to showcase my journey and progression as a Da
 ## Portfolio Projects
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
+## Fall Studio AI
+**Code:**[Fall Studio AI](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
+
 ## Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak
 **Code:** [`Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak.ipynb`](https://github.com/Aunestly/aun-m_portfolio/blob/main/Using%20dplyr%20to%20Analyze%20Archipelago%20Penguin%20Dataset%20by%20Jesse%20Mostipak.ipynb)
 
@@ -31,3 +34,4 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 **Description:** This project is a tutorial that I completed that includes a dataset with 3 species of penguins; Chinstrap, Adélie, or Gentoo from the islands of Dream, Torgersen, or Biscoe in the Palmer Archipelago, (Antarctica). To discover the average body mass by species AND island I utilized the Tidyverse package dplyr and five functions into ggplot2 package for visualization. In this tutorial by Jesse Mostipak that I completed I was able to set up the coding environment, load the necessary packages, explore the data, and model it. 
 
 **Skills:** data modeling, data exploration, data parsing, data visualization, data importing
+
