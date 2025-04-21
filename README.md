@@ -7,3 +7,12 @@ Hi, My name is Aunesty, I am a data analyst and I am currently pursuing my degre
 
 
 email: aunestymoreland@gmail.com
+
+The purpose of this repository is to showcase my journey and progression as a Data Analyst.
+
+## Table of Contents
+-[About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
+
+## Portfolio Projects:
+
+
