@@ -12,8 +12,19 @@ The purpose of this repository is to showcase my journey and progression as a Da
 
 ## Table of Contents
 - [About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
-- [Portfolio Projects] (https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
+  - R Programming
+  - [ Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak]()
+  - 
+- 
 
 ## Portfolio Projects
+Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
+## Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak
+**Code:** [`palmer-archipelago-penguin-dplyr-tutorial.ipynb`]
+(https://github.com/Aunestly/aun-m_portfolio/blob/main/palmer-archipelago-penguin-dplyr-tutorial.ipynb)
 
+**Goal:** Use five dplyr functions to filter and analyze different species of penguins from the archipelago dataset.
+
+**Description:** This project is a tutorial that I completed that takes the Tidyverse package dplyr and five functions into ggplot2 package for visualization.
