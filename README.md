@@ -44,10 +44,10 @@ Bachelors of Computer Science, BS, Computer Science
 January 2024 - Present
 ## Certification
 quick description about my certification
-#### [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/OL09609MJUKL) (April-2025) (Coursera - Google)
-#### [SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/7QZ6ZYEWAFL6) (August-2022) (Coursera - UCDavis)
-#### [HTML, CSS and Javascript for Web Developers Certificate](https//www.coursera.org/account/accomplishments/verify/K2ZMPBTSKS9W) (December-2022) (Coursera - John Hopkins University)
-#### [Introduction to Data Analytics Certificate](https://wwww.coursera.org/account/accomplishments/verify/Q6N3<CVTLTR2) (August-2023) (Coursera - IBM )
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/OL09609MJUKL) (April-2025) (Coursera - Google)
+- [SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/7QZ6ZYEWAFL6) (August-2022) (Coursera - UCDavis)
+- [HTML, CSS and Javascript for Web Developers Certificate](https//www.coursera.org/account/accomplishments/verify/K2ZMPBTSKS9W) (December-2022) (Coursera - John Hopkins University)
+- [Introduction to Data Analytics Certificate](https://wwww.coursera.org/account/accomplishments/verify/Q6N3<CVTLTR2) (August-2023) (Coursera - IBM )
 
 ## Contact
 
