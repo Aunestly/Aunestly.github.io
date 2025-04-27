@@ -43,7 +43,7 @@ Clayton State University
 Bachelors of Computer Science, BS, Computer Science
 January 2024 - Present
 ## Certification
-Below is a list of  relevant certifications I compiled that showcase my specialty in Computer Science: Data Analytics.
+Below is a list in reverse chronological order of  relevant certifications I compiled that showcase my specialty in Computer Science: Data Analytics.
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/OL09609MJUKL) (April-2025) (Coursera - Google)
 - [Oracle Database Platform Certificate](https://www.coursera.org/account/accomplishments/verify/89DNSW5BU3EH) (October-2023) (Coursera-LearnQuest)
 - [Introduction to Data Analytics Certificate](https://www.coursera.org/account/accomplishments/verify/O6N3MCVTLTR2)(August-2023) (Coursera-IBM)
