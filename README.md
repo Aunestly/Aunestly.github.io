@@ -44,6 +44,6 @@ Bachelors of Computer Science, BS, Computer Science
 January 2024 - Present
 ## Certification
 quick description about my certification
-[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/verify/ZESHNC57H87P) (Date year) (Coursera- Google)
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/verify/OL09609MJUKL) (Date year) (Coursera- Google)
 ## Contact
 
