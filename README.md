@@ -1,5 +1,5 @@
  # Aunesty Moreland - Data Analyst Portfolio
-
+![netsalesgraph](Cake-Pop-Sales-Analysis/images/Dashboard1.png)
 ## About
 Hi, My name is Aunesty, I am a data analyst and I am currently pursuing my degree in Computer Science (B.S. Computer Science). Beginning with the study of computer programming languages, I embarked on my journey in the tech industry, which laid a robust foundation for my career in data analysis and strategic marketing. My relevant coursework has equipped me with skills in statistical analysis, professional technical writing, analytical mathematics and data-driven decision-making.
 
