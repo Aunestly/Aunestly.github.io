@@ -24,7 +24,7 @@ The purpose of this repository is to showcase my journey and progression as a Da
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
 ## Analytics & AI Query Hub (POC)
-**Code:**[CSA Analytics & AI Query](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
+**Code:** [CSA Analytics & AI Query](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
 **Goal:** Develop a Google Cloud web portal to a local CSA and its farmers to improve their supply and demand management with analytics and Generative AI for intuitive data interaction.
 
 **Description:** This project will consist of data preparation, synthesiszing and transforming through AI tools. Analyze the data by using backend logic, or GenAI tools to create and develop a UI to display the analytics, by intergration of GenAI. The tool will be tested and in the final step will be presented. The outcome of this project is to create and implement a demo the models the core analytics dashboard and one functional GenAI feature to reduce the need for manual analysis.
