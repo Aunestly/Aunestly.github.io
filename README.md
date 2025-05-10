@@ -33,27 +33,30 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 
 **Description:** This project is a tutorial that I completed that includes a dataset with 3 species of penguins; Chinstrap, Adélie, or Gentoo from the islands of Dream, Torgersen, or Biscoe in the Palmer Archipelago, (Antarctica). To discover the average body mass by species AND island I utilized the Tidyverse package dplyr and five functions into ggplot2 package for visualization. In this tutorial by Jesse Mostipak that I completed I was able to set up the coding environment, load the necessary packages, explore the data, and model it. 
 
-**Skills:** data modeling, data exploration, data parsing, data visualization, data importing
+**Skills:** data modeling, data exploration, data parsing, data visualization, and data importing.
 
 ## Present data findings through collected reports and data visualizations
-
+**Code:**[Present data findings through collected reports and data visualizations](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization)
 **Goal:** define, collect, clean, analyze, visualize and present data from a local cake pop business through a relational database using SQL.
-**Description:** This project focuses on a data analysis of a new local cake pop business. 
+
+**Description:** This project focuses on a data analysis of a new local cake pop business and their monthly sales reports. The data and business analysis performed during this project explores various ways on how the local cake pop business can increase product sales/custom sales? Data visualizations were created using SQL through BigQuery and Data Visualization through Tableau Public. A summary of the project can be found [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/README.md)
+
+**Skills:**  ETL, SQL, BigQuery, spreadsheets, data visualization, and data presentation.
 ## Education
 Clayton State University
 Bachelors of Computer Science, BS, Computer Science
 January 2024 - Present
-## Certification
+## Certifications
 Below is a list in reverse chronological order of  relevant certifications I compiled that showcase my specialty in Computer Science: Data Analytics.
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/OL09609MJUKL) (April-2025) (Coursera - Google)
-- [Oracle Database Platform Certificate](https://www.coursera.org/account/accomplishments/verify/89DNSW5BU3EH) (October-2023) (Coursera-LearnQuest)
-- [Introduction to Data Analytics Certificate](https://www.coursera.org/account/accomplishments/verify/O6N3MCVTLTR2)(August-2023) (Coursera-IBM)
-- [HTML, CSS and Javascript for Web Developers Certificate](https//www.coursera.org/account/accomplishments/verify/K2ZMPBTSKS9W) (December-2022) (Coursera-John Hopkins University)
-- [SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/7QZ6ZYEWAFL6) (August-2022) (Coursera-UCDavis)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/OL09609MJUKL) (April-2025 | Coursera - Google)
+- [Oracle Database Platform Certificate](https://www.coursera.org/account/accomplishments/verify/89DNSW5BU3EH) (October-2023 | Coursera-LearnQuest)
+- [Introduction to Data Analytics Certificate](https://www.coursera.org/account/accomplishments/verify/O6N3MCVTLTR2)(August-2023 | Coursera-IBM)
+- [HTML, CSS and Javascript for Web Developers Certificate](https//www.coursera.org/account/accomplishments/verify/K2ZMPBTSKS9W) (December-2022 | Coursera-John Hopkins University)
+- [SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/7QZ6ZYEWAFL6) (August-2022 | Coursera-UCDavis)
 
 
 
 
 ## Contact
--Email: aunestymonique@gmail.com
--LinkedIn: [LinkedIn](https://www.linkedin.com/in/aunesty-moreland)
+**Email:** aunestymonique@gmail.com
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aunesty-moreland)
