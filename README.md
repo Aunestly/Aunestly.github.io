@@ -67,4 +67,5 @@ Below is a list in reverse chronological order of  relevant certifications I com
 
 ## Contact
 **Email:** aunestymonique@gmail.com
+
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aunesty-moreland)
