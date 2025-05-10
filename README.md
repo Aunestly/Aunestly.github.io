@@ -43,6 +43,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 
 ## Present data findings through collected reports and data visualizations
 **Code:** [Present data findings through collected reports and data visualizations](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization)
+
 **Goal:** define, collect, clean, analyze, visualize and present data from a local cake pop business through a relational database using SQL.
 
 **Description:** This project focuses on a data analysis of a new local cake pop business and their monthly sales reports. The data and business analysis performed during this project explores various ways on how the local cake pop business can increase product sales/custom sales? Data visualizations were created using SQL through BigQuery and Data Visualization through Tableau Public. A summary of the project can be found [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/README.md)
