@@ -11,7 +11,7 @@ The purpose of this repository is to showcase my journey and progression as a Da
 - [About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
   - Analytics & AI Query Hub (POC)
-    - [develop a Google CLoud webportal for a local CSA to improve their supply and demand.](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
+    - [Develop a Google Cloud webportal for a local CSA to improve their supply and demand.](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
   - R Programming
     - [ Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak](https://aunestly.github.io/aun-m_portfolio/#using-dplyr-to-analyze-archipelago-penguin-dataset-by-jesse-mostipak)
   - SQL
@@ -24,7 +24,11 @@ The purpose of this repository is to showcase my journey and progression as a Da
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
 ## Analytics & AI Query Hub (POC)
-**Code:**[Fall Studio AI](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
+**Code:**[CSA Analytics & AI Query](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
+**Goal:** Develop a Google Cloud web portal to a local CSA and its farmers to improve their supply and demand management with analytics and Generative AI for intuitive data interaction.
+
+**Description:** This project will consist of data preparation, synthesiszing and transforming through AI tools. Analyze the data by using backend logic, or GenAI tools to create and develop a UI to display the analytics, by intergration of GenAI. The tool will be tested and in the final step will be presented. The outcome of this project is to create and implement a demo the models the core analytics dashboard and one functional GenAI feature to reduce the need for manual analysis.
+**Skills:** cloud computing, genAI
 
 ## Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak
 **Code:** [`Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak.ipynb`](https://github.com/Aunestly/aun-m_portfolio/blob/main/Using%20dplyr%20to%20Analyze%20Archipelago%20Penguin%20Dataset%20by%20Jesse%20Mostipak.ipynb)
@@ -36,7 +40,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 **Skills:** data modeling, data exploration, data parsing, data visualization, and data importing.
 
 ## Present data findings through collected reports and data visualizations
-**Code:**[Present data findings through collected reports and data visualizations](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization)
+**Code:** [Present data findings through collected reports and data visualizations](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization)
 **Goal:** define, collect, clean, analyze, visualize and present data from a local cake pop business through a relational database using SQL.
 
 **Description:** This project focuses on a data analysis of a new local cake pop business and their monthly sales reports. The data and business analysis performed during this project explores various ways on how the local cake pop business can increase product sales/custom sales? Data visualizations were created using SQL through BigQuery and Data Visualization through Tableau Public. A summary of the project can be found [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/README.md)
