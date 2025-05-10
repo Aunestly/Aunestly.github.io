@@ -3,27 +3,27 @@
 ## About
 Hi, My name is Aunesty, I am a data analyst and I am currently pursuing my degree in Computer Science (B.S. Computer Science). Beginning with the study of computer programming languages, I embarked on my journey in the tech industry, which laid a robust foundation for my career in data analysis and strategic marketing. My relevant coursework has equipped me with skills in statistical analysis, professional technical writing, analytical mathematics and data-driven decision-making.
 
- Inspired by the elegance and resilience of the lotus flower, I strive to uncover the hidden truths within data sets. Utilizing advanced data analysis techniques, I cultivate insights that drive marketing success. Just as the lotus rises from the mud to bloom beautifully, I aim to transform complex data into clear, actionable strategies.
-
-
-email: aunestymonique@gmail.com
+Inspired by the elegance and resilience of the lotus flower, I strive to uncover the hidden truths within data sets. Utilizing advanced data analysis techniques, I cultivate insights that drive marketing success. Just as the lotus rises from the mud to bloom beautifully, I aim to transform complex data into clear, actionable strategies.
 
 The purpose of this repository is to showcase my journey and progression as a Data Analyst. 
 
 ## Table of Contents
 - [About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
-  - Fall Studio AI
-    - [Fall Studio AI](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
+  - Analytics & AI Query Hub (POC)
+    - [develop a Google CLoud webportal for a local CSA to improve their supply and demand.](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
   - R Programming
     - [ Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak](https://aunestly.github.io/aun-m_portfolio/#using-dplyr-to-analyze-archipelago-penguin-dataset-by-jesse-mostipak)
   - SQL
-    - [ Present data findings through collected reports and data visualizations.](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/README.md) 
+    - [ Present data findings through collected reports and data visualizations.](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/README.md)
+- [Education](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#education)
+- [Certification](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#certification)
+- [Contact](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#contact)
 
 ## Portfolio Projects
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
-## Fall Studio AI
+## Analytics & AI Query Hub (POC)
 **Code:**[Fall Studio AI](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
 
 ## Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak
@@ -34,10 +34,11 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 **Description:** This project is a tutorial that I completed that includes a dataset with 3 species of penguins; Chinstrap, Adélie, or Gentoo from the islands of Dream, Torgersen, or Biscoe in the Palmer Archipelago, (Antarctica). To discover the average body mass by species AND island I utilized the Tidyverse package dplyr and five functions into ggplot2 package for visualization. In this tutorial by Jesse Mostipak that I completed I was able to set up the coding environment, load the necessary packages, explore the data, and model it. 
 
 **Skills:** data modeling, data exploration, data parsing, data visualization, data importing
- - [Education](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#education)
- - [Certification](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#certification)
- - [Contact](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#contact)
 
+## Present data findings through collected reports and data visualizations
+
+**Goal:** define, collect, clean, analyze, visualize and present data from a local cake pop business through a relational database using SQL.
+**Description:** This project focuses on a data analysis of a new local cake pop business. 
 ## Education
 Clayton State University
 Bachelors of Computer Science, BS, Computer Science
@@ -54,4 +55,5 @@ Below is a list in reverse chronological order of  relevant certifications I com
 
 
 ## Contact
-
+-Email: aunestymonique@gmail.com
+-LinkedIn: [LinkedIn](https://www.linkedin.com/in/aunesty-moreland)
