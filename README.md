@@ -42,7 +42,8 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 **Skills:** data modeling, data exploration, data parsing, data visualization, and data importing.
 
 ## Present data findings through collected reports and data visualizations
-**Code:** [Present data findings through collected reports and data visualizations](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization)
+**Code:** [Patterns in data with SQL queries](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/CPSAqueries)
+**Project:** [Present data findings through collected reports and data visualizations](https://github.com/Aunestly/Cake-Pop-Sales-Analysis)
 
 **Goal:** define, collect, clean, analyze, visualize and present data from a local cake pop business through a relational database using SQL.
 
