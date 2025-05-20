@@ -23,8 +23,8 @@ The purpose of this repository is to showcase my journey and progression as a Da
 ## Portfolio Projects
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 
-## Analytics & AI Query Hub (POC)
-**Code:** [CSA Analytics & AI Query](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project)
+## AutoML P&ID Equipment Detector (POC)
+**Code:** [P&ID Equipment Detector](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
 
 **Goal:** Develop a Google Cloud web portal to a local CSA and its farmers to improve their supply and demand management with analytics and Generative AI for intuitive data interaction.
 
