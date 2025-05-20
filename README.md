@@ -11,7 +11,7 @@ The purpose of this repository is to showcase my journey and progression as a Da
 - [About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
   - AutoML P&ID Equipment Detector (POC)
-    - [Develop a Proof-of-Concept using Google Cloud to identify specific equipment symbols from Piping and Instrumentation Diagrams (P&IDs)](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
+    - [Develop a Proof-of-Concept using Google Cloud to identify symbols from Piping and Instrumentation Diagrams (P&IDs)](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
   - R Programming
     - [Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak](https://aunestly.github.io/aun-m_portfolio/#using-dplyr-to-analyze-archipelago-penguin-dataset-by-jesse-mostipak)
   - SQL
