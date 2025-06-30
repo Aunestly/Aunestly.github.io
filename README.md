@@ -17,7 +17,7 @@ The purpose of this repository is to showcase my journey and progression as a Da
   - R Programming
     - [Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak](https://aunestly.github.io/aun-m_portfolio/#using-dplyr-to-analyze-archipelago-penguin-dataset-by-jesse-mostipak)
   - Data Analysis/SQL
-    - [Present business data findings through collected reports and data visualizations.](https://github.com/Aunestly/aun-m_portfolio?tab=readme-ov-file#present-data-findings-through-collected-reports-and-data-visualizations)
+    - [Present business data findings through collected reports and data visualizations.](https://github.com/Aunestly/SprinternProject25/blob/main/detection.py)
       
 - [Education](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#education)
 - [Certification](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#certification)
@@ -34,7 +34,11 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 **Description:** UpcycleAI.text encourages sustainability and creativity by leveraging generative AI. Building this app required the managment of two separate API keys, understanding two different potential error patterns, and using two different extensions in MIT App Inventor.
 
 ## AI/Computer Vision Development & MLOPs: AutoML P&ID Equipment Detector (POC)
-**Code:** [P&ID Equipment Detector](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
+**Code:** [P&ID Equipment Detection](https://github.com/Aunestly/SprinternProject25/blob/main/detection.py)
+
+** Project:** [AutoML P&ID Equipment Detector](https://github.com/Aunestly/SprinternProject25/)
+
+**Collaborative Description: [PeachBytes](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
 
 **Goal:** Develop a Proof-of-Concept using Google Cloud to identify specific equipment symbols from Piping and Instrumentation Diagrams (P&IDs). A bonus includes a simple chatbot to query the detected equipment data.
 
