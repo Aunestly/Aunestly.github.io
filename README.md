@@ -11,7 +11,7 @@ The purpose of this repository is to showcase my journey and progression as a Da
 - [About](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/aunestly/aun-m_portfolio/blob/main/README.md#portfolio-projects)
   - AI & App Development
-    -[Build a working mobile application in MIT App Inventor, integrate two distinct generative AI services (Google Gemini and OpenAI DALL-E).](https://github.com/Aunestly/UpcycleAI.text/blob/main/README.md)
+    - [Build a working mobile application in MIT App Inventor, integrate two distinct generative AI services (Google Gemini and OpenAI DALL-E).](https://github.com/Aunestly/UpcycleAI.text/blob/main/README.md)
   - AI/Computer Vision Development & MLOPs
     - [Demonstrate key MLOps principles by deploying a custom Computer Vision model, trained AutoML object detection, to a Vertex AI Endpoint](https://github.com/Aunestly/Fall-AI-Studio-Project/blob/main/README.md#fall-ai-studio-project) 
   - R Programming
