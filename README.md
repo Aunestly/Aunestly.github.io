@@ -38,7 +38,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 
 ** Project:** [AutoML P&ID Equipment Detector](https://github.com/Aunestly/SprinternProject25/)
 
-**Collaborative Description: [PeachBytes](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
+**Collaborative Description:** [PeachBytes](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
 
 **Goal:** Develop a Proof-of-Concept using Google Cloud to identify specific equipment symbols from Piping and Instrumentation Diagrams (P&IDs). A bonus includes a simple chatbot to query the detected equipment data.
 
