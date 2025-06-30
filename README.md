@@ -44,7 +44,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 
 **Description:** This project will consist of data preparation, synthesiszing and transforming through AI tools. Analyze the data by using backend logic, or GenAI tools to create and develop a UI to display the analytics, by intergration of GenAI. The tool will be tested and in the final step will be presented. The outcome of this project is to create and implement a demo the models the core analytics dashboard and one functional GenAI feature to reduce the need for manual analysis.
 
-**Skills:** cloud computing, genAI, Machine Learning
+**Skills:** Endpoint Deployment, cloud computing, genAI, Machine Learning, Python developing, and Metadata Collection
 
 ## Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak
 **Code:** [`Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak.ipynb`](https://github.com/Aunestly/aun-m_portfolio/blob/main/Using%20dplyr%20to%20Analyze%20Archipelago%20Penguin%20Dataset%20by%20Jesse%20Mostipak.ipynb)
