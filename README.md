@@ -17,7 +17,7 @@ The purpose of this repository is to showcase my journey and progression as a Da
   - R Programming
     - [Using dplyr to Analyze Archipelago Penguin Dataset by Jesse Mostipak](https://aunestly.github.io/aun-m_portfolio/#using-dplyr-to-analyze-archipelago-penguin-dataset-by-jesse-mostipak)
   - Data Analysis/SQL
-    - [Present data findings through collected reports and data visualizations.](https://github.com/Aunestly/aun-m_portfolio?tab=readme-ov-file#present-data-findings-through-collected-reports-and-data-visualizations)
+    - [Present business data findings through collected reports and data visualizations.](https://github.com/Aunestly/aun-m_portfolio?tab=readme-ov-file#present-data-findings-through-collected-reports-and-data-visualizations)
       
 - [Education](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#education)
 - [Certification](https://github.com/Aunestly/aun-m_portfolio/blob/main/README.md#certification)
