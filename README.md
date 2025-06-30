@@ -28,6 +28,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 ## AI & App Development
 **Code:**
 **Goal:**
+<br>
 **Description:** The purpose of this project was to design and build a working mobile application in MIT APP Inventor that addresses a critical environmental issue. UpcycleAI.text encourages sustainability and creativity by leveraging generative AI. Building this app required the managment of two separate API keys, understanding two different potential error patterns, and using two different extensions in MIT App Inventor.
 
 ## AI/Computer Vision Development & MLOPs: AutoML P&ID Equipment Detector (POC)
