@@ -27,9 +27,9 @@ The purpose of this repository is to showcase my journey and progression as a Da
 Here, I will provide a quick overview of various data analytic projects or tutorials I have completed.
 ## AI & App Development
 **Code:**
-**Goal:**
+**Goal:** The purpose of this project was to design and build a working mobile application in MIT APP Inventor that addresses a critical environmental issue.
 <br>
-**Description:** The purpose of this project was to design and build a working mobile application in MIT APP Inventor that addresses a critical environmental issue. UpcycleAI.text encourages sustainability and creativity by leveraging generative AI. Building this app required the managment of two separate API keys, understanding two different potential error patterns, and using two different extensions in MIT App Inventor.
+**Description:** UpcycleAI.text encourages sustainability and creativity by leveraging generative AI. Building this app required the managment of two separate API keys, understanding two different potential error patterns, and using two different extensions in MIT App Inventor.
 
 ## AI/Computer Vision Development & MLOPs: AutoML P&ID Equipment Detector (POC)
 **Code:** [P&ID Equipment Detector](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
