@@ -36,7 +36,7 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 ## AI/Computer Vision Development & MLOPs: AutoML P&ID Equipment Detector (POC)
 **Code:** [P&ID Equipment Detection](https://github.com/Aunestly/SprinternProject25/blob/main/detection.py)
 
-** Project:** [AutoML P&ID Equipment Detector](https://github.com/Aunestly/SprinternProject25/)
+**Project:** [AutoML P&ID Equipment Detector](https://github.com/Aunestly/SprinternProject25/)
 
 **Collaborative Description:** [PeachBytes](https://github.com/JasmineH12/Sprinternship/blob/main/README.md)
 
