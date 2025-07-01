@@ -28,6 +28,9 @@ Here, I will provide a quick overview of various data analytic projects or tutor
 ## AI & App Development
 **Code:**
 
+**Project:**[Using MIT APP Inventor to create sustainability through recycling](https://github.com/Aunestly/UpcycleAI.text)
+
+
 **Goal:** The purpose of this project was to design and build a working mobile application in MIT APP Inventor that addresses a critical environmental issue.
 <br>
 
