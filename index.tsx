@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const splashScreen = document.getElementById('splash-screen');
   const splashButtons = document.querySelectorAll('.splash-btn');
 
-  if (splashScreen) {
+  if (splashScreen && splashButtons.length > 0) {
     splashButtons.forEach(button => {
       button.addEventListener('click', (e) => {
         e.preventDefault();
@@ -19,17 +19,18 @@ document.addEventListener('DOMContentLoaded', () => {
         const targetElement = document.querySelector(targetId);
         if (!targetElement) return;
         
-        // Add the class to start the fade-out animation.
+        // 1. Start the fade-out animation by adding the 'hidden' class.
         splashScreen.classList.add('hidden');
         
-        // Use a timeout that matches the CSS transition duration to hide the element.
-        // This is more reliable than waiting for the 'transitionend' event.
-        setTimeout(() => {
-          splashScreen.style.display = 'none';
-        }, 800); // Must match the transition duration in index.css
-        
-        // Scroll to the section.
+        // 2. Scroll to the target section immediately.
         targetElement.scrollIntoView({ behavior: 'smooth' });
+        
+        // 3. Set a timer to hide the splash screen after the animation is complete.
+        // The animation duration in index.css is 0.8s (800ms).
+        // This is a more robust fix than the 'transitionend' event which was failing.
+        setTimeout(() => {
+            splashScreen.style.display = 'none';
+        }, 800);
       });
     });
   }
