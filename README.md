@@ -3,13 +3,13 @@
 This repository contains the source code for my personal portfolio website.
 
 **[View the live website here!](https://aunestly.github.io/)** 
-*(Note: Remember to replace "your-username" and "your-repo-name" with your actual GitHub details!)*
+
 
 ---
 
 ## About This Project
 
-This is a fully responsive portfolio website built to showcase my projects, skills, and experience in data analysis and computer science. It features a high-tech, interactive design with a separate landing page and main content page for a robust user experience.
+This is a fully responsive portfolio website built to showcase my projects, skills, and experience in data analysis and computer science. It features a interactive design with a separate landing page and main content page for a nice user experience.
 
 ## File Structure
 
