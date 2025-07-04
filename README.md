@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website.
 
-**[View the live website here!](https://your-username.github.io/your-repo-name/)** 
+**[View the live website here!](https://aunestly.github.io/)** 
 *(Note: Remember to replace "your-username" and "your-repo-name" with your actual GitHub details!)*
 
 ---
