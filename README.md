@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website.
 
-**[View the live website here!](https://aunestly.github.io/)** 
+**[View the live website here!](https://your-username.github.io/your-repo-name/)** 
 *(Note: Remember to replace "your-username" and "your-repo-name" with your actual GitHub details!)*
 
 ---
@@ -16,7 +16,7 @@ This is a fully responsive portfolio website built to showcase my projects, skil
 -   `index.html`: The main splash/landing page that serves as the entry point.
 -   `portfolio.html`: The main portfolio page containing the "About Me," "Projects," and "Contact" sections.
 -   `index.css`: Contains all styling for both pages, including the high-tech theme, animations, and responsive design.
--   `index.tsx`: Handles all client-side interactivity on the `portfolio.html` page, such as the 3D cards, scroll animations, and background effects.
+-   `index.js`: Handles all client-side interactivity on the `portfolio.html` page, such as the 3D cards, scroll animations, and background effects.
 -   `profile.png`: The profile picture used on the site.
 
 ## How to Run Locally
